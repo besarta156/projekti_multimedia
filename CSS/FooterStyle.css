@@ -5,10 +5,10 @@ body {
     font-family: Lato, sans-serif;
 }
 footer {
+    
     width: 100%;
     position: relative;
 }
-
 footer div {
     background-color: #545AA7;
     /**background-color: cmyk(50%, 46%, 0%, 35%);**/
